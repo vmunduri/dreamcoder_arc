@@ -1,6 +1,6 @@
 Bootstrap: docker
 
-From: ubuntu
+From: ubuntu:22.04
 
 
 %runscript
