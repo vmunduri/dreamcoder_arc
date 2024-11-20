@@ -11,6 +11,7 @@ class DefaultTaskBatcher:
         def getTaskBatch(self, ec_result, tasks, taskBatchSize, currIteration):
                 if taskBatchSize is None:
                         taskBatchSize = len(tasks)
+                        
                 elif taskBatchSize > len(tasks):
                         eprint("Task batch size is greater than total number of tasks, aborting.")
                         assert False

@@ -64,7 +64,7 @@ print(f'Run ID: {run_id}')
 run.define_metric('iteration')
 if args['evalset']:
     print('Running on eval-set')
-    training = get_arc_tasks(n=20, eval=True)
+    training = get_arc_tasks(n=400, eval=True)
     run.define_metric('test-hit1-eval', summary='max', goal='maximize', step_metric='iteration')
     run.define_metric('test-hit3-eval', summary='max', goal='maximize', step_metric='iteration')
 elif args['bothset']:

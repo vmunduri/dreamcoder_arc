@@ -1,0 +1,42 @@
+{
+  "os": "Linux-6.8.0-48-generic-x86_64-with-debian-bookworm-sid",
+  "python": "3.7.9",
+  "startedAt": "2024-11-19T20:05:27.104653Z",
+  "args": [
+    "-c",
+    "7",
+    "-t",
+    "3600",
+    "-R",
+    "2400",
+    "-i",
+    "1",
+    "--evalset"
+  ],
+  "program": "ec/arcbin/arc_mikel2.py",
+  "codePath": "ec/arcbin/arc_mikel2.py",
+  "git": {
+    "remote": "git@github.com:mxbi/dreamcoder-arc.git",
+    "commit": "976cb13f4e27ddf89fc902a3047459b84d5c3a97"
+  },
+  "root": "/home/ubuntu/dreamcoder_arc/dreamcoder-arc",
+  "host": "ubuntu",
+  "username": "ubuntu",
+  "executable": "/usr/local/conda/bin/python",
+  "codePathLocal": "ec/arcbin/arc_mikel2.py",
+  "cpu_count": 8,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "67108864",
+      "used": "12288"
+    }
+  },
+  "memory": {
+    "total": "11172601856"
+  },
+  "cpu": {
+    "count": 8,
+    "countLogical": 8
+  }
+}

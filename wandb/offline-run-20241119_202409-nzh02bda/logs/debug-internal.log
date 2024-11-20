@@ -1,0 +1,8 @@
+{"time":"2024-11-19T20:24:09.896449171Z","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-19T20:24:09.896492755Z","level":"INFO","msg":"created symlink","path":"/home/ubuntu/dreamcoder_arc/dreamcoder-arc/wandb/offline-run-20241119_202409-nzh02bda/logs/debug-core.log"}
+{"time":"2024-11-19T20:24:10.007335506Z","level":"INFO","msg":"created new stream","id":"nzh02bda"}
+{"time":"2024-11-19T20:24:10.007484572Z","level":"INFO","msg":"stream: started","id":"nzh02bda"}
+{"time":"2024-11-19T20:24:10.007775089Z","level":"INFO","msg":"sender: started","stream_id":"nzh02bda"}
+{"time":"2024-11-19T20:24:10.007800288Z","level":"INFO","msg":"handler: started","stream_id":"nzh02bda"}
+{"time":"2024-11-19T20:24:10.007671756Z","level":"INFO","msg":"writer: Do: started","stream_id":"nzh02bda"}
+{"time":"2024-11-19T20:24:10.018746938Z","level":"INFO","msg":"Starting system monitor"}
