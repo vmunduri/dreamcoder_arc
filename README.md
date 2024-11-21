@@ -73,4 +73,4 @@ The ARC dataset (arckit/arc1.json) is licensed instead under the Apache license.
 
 ## Important Notice:
 
-The above repository is cloned from (https://github.com/mxbi/dreamcoder-arc repository. Entire credit goes to the mxbi/dreamcoder-arc repository
+The above repository is cloned from (https://github.com/mxbi/dreamcoder-arc) repository. Entire credit goes to the mxbi/dreamcoder-arc repository
