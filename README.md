@@ -69,3 +69,8 @@ Additionally, I brought in some changes from Simon Alford's [bidir-synth](https:
 The code in this repository is licensed under the MIT license. The original DreamCoder and bidir-synth repos are licened under the same license from their respective authors.
 
 The ARC dataset (arckit/arc1.json) is licensed instead under the Apache license.
+
+
+## Important Notice:
+
+The above repository is cloned from (https://github.com/mxbi/dreamcoder-arc repository. Entire credit goes to the mxbi/dreamcoder-arc repository
